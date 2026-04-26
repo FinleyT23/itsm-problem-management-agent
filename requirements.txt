@@ -1,4 +1,5 @@
-crewai>=0.80.0
-crewai-tools>=0.14.0
-pydantic>=2.0.0
-pandas>=2.0.0
+crewai
+crewai-tools
+python-dotenv
+langchain-groq  # free & fast (or langchain-openai if you prefer)
+pydantic
