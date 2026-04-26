@@ -13,7 +13,7 @@ cause analysis, produce Known Error Records, and generate formal Requests for Ch
 ## Project Structure
 
 ```
-finserve_problem_mgmt/
+itsm-problem-management-agent/
 ├── main.py                          # Entry point — run this
 ├── requirements.txt                 # Python dependencies
 ├── WRITTEN_SUMMARY.md               # Assignment written summary (patterns + tool design)
@@ -56,7 +56,7 @@ finserve_problem_mgmt/
 
 ```bash
 # Clone / extract the project
-cd finserve_problem_mgmt
+cd itsm-problem-management-agent
 
 # Create virtual environment
 python -m venv venv
